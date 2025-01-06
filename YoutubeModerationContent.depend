@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1714568312 source:e:\unegb\documents\youtubemoderationcontent\person.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Person.h"
+
+1714563278 e:\unegb\documents\youtubemoderationcontent\person.h
+	<iostream>
+	<string>
+
+1716270798 source:e:\unegb\documents\youtubemoderationcontent\user.cpp
+	"User.h"
+	"VideoDatabase.h"
+	<fstream>
+	<iostream>
+	<string>
+	<queue>
+	<list>
+	<algorithm>
+	<deque>
+
+1714934619 e:\unegb\documents\youtubemoderationcontent\user.h
+	<string>
+	<stdexcept>
+	"Person.h"
+	"VideoDatabase.h"
+
+1714937119 source:e:\unegb\documents\youtubemoderationcontent\creator.cpp
+	"Creator.h"
+	"VideoDatabase.h"
+	<fstream>
+	<iostream>
+	<string>
+	<queue>
+	<list>
+	<algorithm>
+	<deque>
+	<numeric>
+
+1714902716 e:\unegb\documents\youtubemoderationcontent\creator.h
+	<iostream>
+	<string>
+	<map>
+	<numeric>
+	"VideoDatabase.h"
+
+1714916405 source:e:\unegb\documents\youtubemoderationcontent\videodatabase.cpp
+	"VideoDatabase.h"
+	<iostream>
+	<string>
+	<queue>
+	<list>
+	<algorithm>
+	<deque>
+	<string>
+	<fstream>
+
+1714893908 e:\unegb\documents\youtubemoderationcontent\videodatabase.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+
+1714935849 source:e:\unegb\documents\youtubemoderationcontent\main.cpp
+	"Person.h"
+	"User.h"
+	"Creator.h"
+	"VideoDatabase.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	<queue>
+	<list>
+	<deque>
+	<iostream>
+	<sstream>
+
+1716271391 source:e:\unegb\documents\youtubemoderationcontent\video.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+
